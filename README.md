@@ -88,12 +88,4 @@ const developer = {
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=DEIN-USERNAME&color=brightgreen&style=flat-square)
-  
-  **"Coding is not just my profession, it's my passion! 🚀"**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
+
