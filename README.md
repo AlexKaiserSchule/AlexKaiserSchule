@@ -1,12 +1,12 @@
-# 👋 Hi, ich bin [DEIN NAME]
+# 👋 Hi, ich bin Alex!
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Code+Architekt)
   
-  [![GitHub followers](https://img.shields.io/github/followers/DEIN-USERNAME?label=Followers&style=social)](https://github.com/DEIN-USERNAME)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/DEIN-TWITTER?style=social)](https://twitter.com/DEIN-TWITTER)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN-PROFIL)
+
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-kaiser-700366328)
   
 </div>
 
